@@ -5,6 +5,7 @@
 `d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 Nf3 O-O Be2 e5`
 
 ![[gifs/classical_variation.gif]]
+![https://github.com/Dekiman/Chess-Openings-Notebook/blob/main/Openings%20for%20Black/King's%20Indian%20Defense/gifs/averbakh_variation.gif]
 
 - [Lichess Analysis](https://lichess.org/analysis/pgn/d4_Nf6_c4_g6_Nc3_Bg7_e4_d6_Nf3_O-O_Be2_e5)
 - [Chess.com Analysis](https://www.chess.com/analysis?fen=rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQK2R%20w%20KQ%20-%200%207)
