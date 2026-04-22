@@ -5,11 +5,11 @@
 **Philosophy:** Solid, counter-attacking opening where Black fights for the center with e6 and d5.
 
 ## Links
-- [[01 - Main Line Theory]]
-- [[02 - Sidelines & Refutations]]
-- [[03 - Strategic Plans & Pawn Structures]]
-- [[04 - Tactics & Model Traps]]
-- [[05 - Model Games]]
+- [[Openings for Black/French Defense/01 - Main Line Theory]]
+- [[Openings for Black/French Defense/02 - Sidelines & Refutations]]
+- [[Openings for Black/French Defense/03 - Strategic Plans & Pawn Structures]]
+- [[Openings for Black/French Defense/04 - Tactics & Model Traps]]
+- [[Openings for Black/French Defense/05 - Model Games]]
 
 
 ## Main Counter

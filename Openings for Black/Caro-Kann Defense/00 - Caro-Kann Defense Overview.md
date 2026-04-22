@@ -12,11 +12,11 @@ The Caro-Kann Defense is one of Black's most reliable and solid responses to 1. 
 - **B15-B19**: Main Line (Classical)
 
 ## Contents
-- [[01 - Main Line Theory]]
-- [[02 - Sidelines & Refutations]]
-- [[03 - Strategic Plans & Pawn Structures]]
-- [[04 - Tactics & Model Traps]]
-- [[05 - Model Games]]
+- [[Openings for Black/Caro-Kann Defense/01 - Main Line Theory]]
+- [[Openings for Black/Caro-Kann Defense/02 - Sidelines & Refutations]]
+- [[Openings for Black/Caro-Kann Defense/03 - Strategic Plans & Pawn Structures]]
+- [[Openings for Black/Caro-Kann Defense/04 - Tactics & Model Traps]]
+- [[Openings for Black/Caro-Kann Defense/05 - Model Games]]
 
 
 ## Main Counter

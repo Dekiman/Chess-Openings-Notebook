@@ -5,11 +5,11 @@
 **Philosophy:** Hypermodern defense where Black allows White a strong center, planning to counter-attack it later.
 
 ## Links
-- [[01 - Main Line Theory]]
-- [[02 - Sidelines & Refutations]]
-- [[03 - Strategic Plans & Pawn Structures]]
-- [[04 - Tactics & Model Traps]]
-- [[05 - Model Games]]
+- [[Openings for Black/King's Indian Defense/01 - Main Line Theory]]
+- [[Openings for Black/King's Indian Defense/02 - Sidelines & Refutations]]
+- [[Openings for Black/King's Indian Defense/03 - Strategic Plans & Pawn Structures]]
+- [[Openings for Black/King's Indian Defense/04 - Tactics & Model Traps]]
+- [[Openings for Black/King's Indian Defense/05 - Model Games]]
 
 
 ## Main Counter
