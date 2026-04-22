@@ -5,11 +5,11 @@
 **Philosophy:** Black fights for the center asymmetrically, creating unbalanced and dynamic positions.
 
 ## Links
-- [[01 - Main Line Theory]]
-- [[02 - Sidelines & Refutations]]
-- [[03 - Strategic Plans & Pawn Structures]]
-- [[04 - Tactics & Model Traps]]
-- [[05 - Model Games]]
+- [[Openings for Black/Sicilian Defense/01 - Main Line Theory]]
+- [[Openings for Black/Sicilian Defense/02 - Sidelines & Refutations]]
+- [[Openings for Black/Sicilian Defense/03 - Strategic Plans & Pawn Structures]]
+- [[Openings for Black/Sicilian Defense/04 - Tactics & Model Traps]]
+- [[Openings for Black/Sicilian Defense/05 - Model Games]]
 
 
 ## Main Counter

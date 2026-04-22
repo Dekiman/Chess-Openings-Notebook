@@ -5,11 +5,11 @@
 **Philosophy:** Hypermodern defense preventing e4 by pinning the c3 knight.
 
 ## Links
-- [[01 - Main Line Theory]]
-- [[02 - Sidelines & Refutations]]
-- [[03 - Strategic Plans & Pawn Structures]]
-- [[04 - Tactics & Model Traps]]
-- [[05 - Model Games]]
+- [[Openings for Black/Nimzo-Indian Defense/01 - Main Line Theory]]
+- [[Openings for Black/Nimzo-Indian Defense/02 - Sidelines & Refutations]]
+- [[Openings for Black/Nimzo-Indian Defense/03 - Strategic Plans & Pawn Structures]]
+- [[Openings for Black/Nimzo-Indian Defense/04 - Tactics & Model Traps]]
+- [[Openings for Black/Nimzo-Indian Defense/05 - Model Games]]
 
 
 ## Main Counter

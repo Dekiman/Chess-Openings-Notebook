@@ -5,11 +5,11 @@
 **Philosophy:** Black challenges the center immediately with 1... d5, bringing the Queen out early.
 
 ## Links
-- [[01 - Main Line Theory]]
-- [[02 - Sidelines & Refutations]]
-- [[03 - Strategic Plans & Pawn Structures]]
-- [[04 - Tactics & Model Traps]]
-- [[05 - Model Games]]
+- [[Openings for Black/Scandinavian Defense/01 - Main Line Theory]]
+- [[Openings for Black/Scandinavian Defense/02 - Sidelines & Refutations]]
+- [[Openings for Black/Scandinavian Defense/03 - Strategic Plans & Pawn Structures]]
+- [[Openings for Black/Scandinavian Defense/04 - Tactics & Model Traps]]
+- [[Openings for Black/Scandinavian Defense/05 - Model Games]]
 
 
 ## Main Counter
