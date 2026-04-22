@@ -9,7 +9,7 @@
 - [Lichess Analysis](https://lichess.org/analysis/pgn/d4_Nf6_c4_g6_Nc3_Bg7_e4_d6_f3_O-O_Be3_c5_d5_e6_Qd2_exd5_cxd5)
 - [Chess.com Analysis](https://www.chess.com/analysis?fen=rnbq1rk1/pp3pbp/3p1np1/2pP4/4P3/2N1BP2/PP1Q2PP/R3KBNR%20b%20KQ%20-%200%209)
 - [Read More](https://www.chess.com/article/view/kings-indian-defense-traps)
-
+![](https://github.com/Dekiman/Chess-Openings-Notebook/blob/main/Openings%20for%20Black/King's%20Indian%20Defense/gifs/kid_early_trap.gif)
 
 ## Traps for Black
 ### KID Trap
