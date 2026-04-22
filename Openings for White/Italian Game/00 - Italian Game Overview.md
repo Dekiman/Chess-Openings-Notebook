@@ -5,11 +5,11 @@
 **Philosophy:** Classic e4 opening developing the bishop to c4 to eye the f7 square.
 
 ## Links
-- [[01 - Main Line Theory]]
-- [[02 - Sidelines & Refutations]]
-- [[03 - Strategic Plans & Pawn Structures]]
-- [[04 - Tactics & Model Traps]]
-- [[05 - Model Games]]
+- [[Openings for White/Italian Game/01 - Main Line Theory]]
+- [[Openings for White/Italian Game/02 - Sidelines & Refutations]]
+- [[Openings for White/Italian Game/03 - Strategic Plans & Pawn Structures]]
+- [[Openings for White/Italian Game/04 - Tactics & Model Traps]]
+- [[Openings for White/Italian Game/05 - Model Games]]
 
 
 ## Main Counter

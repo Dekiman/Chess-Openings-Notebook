@@ -5,11 +5,11 @@
 **Philosophy:** Solid system for White aiming for a stable setup with d4, Bf4, e3, c3.
 
 ## Links
-- [[01 - Main Line Theory]]
-- [[02 - Sidelines & Refutations]]
-- [[03 - Strategic Plans & Pawn Structures]]
-- [[04 - Tactics & Model Traps]]
-- [[05 - Model Games]]
+- [[Openings for White/London System/01 - Main Line Theory]]
+- [[Openings for White/London System/02 - Sidelines & Refutations]]
+- [[Openings for White/London System/03 - Strategic Plans & Pawn Structures]]
+- [[Openings for White/London System/04 - Tactics & Model Traps]]
+- [[Openings for White/London System/05 - Model Games]]
 
 
 ## Main Counter

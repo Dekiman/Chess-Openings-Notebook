@@ -5,11 +5,11 @@
 **Philosophy:** The Spanish Game, aiming to pressure Black's e5 pawn and control the center.
 
 ## Links
-- [[01 - Main Line Theory]]
-- [[02 - Sidelines & Refutations]]
-- [[03 - Strategic Plans & Pawn Structures]]
-- [[04 - Tactics & Model Traps]]
-- [[05 - Model Games]]
+- [[Openings for White/Ruy Lopez/01 - Main Line Theory]]
+- [[Openings for White/Ruy Lopez/02 - Sidelines & Refutations]]
+- [[Openings for White/Ruy Lopez/03 - Strategic Plans & Pawn Structures]]
+- [[Openings for White/Ruy Lopez/04 - Tactics & Model Traps]]
+- [[Openings for White/Ruy Lopez/05 - Model Games]]
 
 
 ## Main Counter for Black

@@ -5,11 +5,11 @@
 **Philosophy:** Classical defense to 1. d4, fighting for the center solidly with d5 and e6.
 
 ## Links
-- [[01 - Main Line Theory]]
-- [[02 - Sidelines & Refutations]]
-- [[03 - Strategic Plans & Pawn Structures]]
-- [[04 - Tactics & Model Traps]]
-- [[05 - Model Games]]
+- [[Openings for White/Queen's Gambit/01 - Main Line Theory]]
+- [[Openings for White/Queen's Gambit/02 - Sidelines & Refutations]]
+- [[Openings for White/Queen's Gambit/03 - Strategic Plans & Pawn Structures]]
+- [[Openings for White/Queen's Gambit/04 - Tactics & Model Traps]]
+- [[Openings for White/Queen's Gambit/05 - Model Games]]
 
 
 ## Main Counter
